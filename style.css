@@ -1,0 +1,39 @@
+h1 {
+    color: red;
+}
+
+.white-border {
+    border-color: white;
+    border-width: 100px;
+}
+
+body {
+    background-color: black;
+    margin: 200px;
+}
+
+.smaller-image {
+    size: 100px;
+}
+
+b {
+    color: white;
+}
+
+ul {
+    color: purple;
+}
+
+a {
+    color: blue;
+}
+
+.rounded-image {
+    border-radius: 5%;
+}
+
+.thin-white-border {
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+  }
